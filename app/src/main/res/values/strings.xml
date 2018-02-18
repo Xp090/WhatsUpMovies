@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WhatsUpMovies</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="poster_not_available">Poster Not Available</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="no_connection">Check your internet connection</string>
+    <string name="failed_to_connect">Failed to connect to the server</string>
+    <string name="no_results_found">No results found</string>
+    <string name="search_results_for">Search results for: &lt;b>&lt;i>%1$s&lt;/b>&lt;/i></string>
+    <string name="go_filters">Go</string>
+
+    <string-array name="main_filter_type">
+        <item>Newly Released</item>
+        <item>Upcoming this month</item>
+    </string-array>
+
+    <string-array name="sort_filter" >
+        <item>Popularity DESC</item>
+        <item>Popularity ASC</item>
+        <item>Release date DESC</item>
+        <item>Release date ASC</item>
+        <item>Vote average DESC</item>
+        <item>Vote average ASC</item>
+        <item>Vote count DESC</item>
+        <item>Vote count ASC</item>
+
+    </string-array>
+</resources>
